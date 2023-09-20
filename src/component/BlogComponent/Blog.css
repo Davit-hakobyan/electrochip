@@ -1,0 +1,28 @@
+.blog{
+    margin-top: 200px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.blog_div1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.blog_div2{
+    margin-top: 30px;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.blog_div2>div{
+    width: 45%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-left: 40px;
+}
+.blog_div2>div>div{
+    padding: 15px;
+}
