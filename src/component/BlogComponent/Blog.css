@@ -23,6 +23,28 @@
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     margin-left: 40px;
 }
+.blog_div2>div>img{
+    width: 100%;
+}
 .blog_div2>div>div{
     padding: 15px;
+}
+
+
+/* MEDIA */
+@media screen and (max-width: 700px) {
+    .blog_div2{
+        margin-top: 30px;
+        width: 80%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .blog_div2>div{
+        width: 80%;
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+        margin-left: 40px;
+    }
+
 }

@@ -49,3 +49,22 @@
     text-decoration: none;
 }
    
+.mediamenu{
+    display: block;
+}
+.menu1{
+    background-color: #EAE6F5;
+    text-align: center;
+}
+
+:root{
+    --dav-color:red;
+}
+.menu1_div{
+    
+    margin-bottom: 20px;
+    
+}
+.mediamenu_div1{
+    display: none;
+}

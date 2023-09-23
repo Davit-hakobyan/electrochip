@@ -40,3 +40,18 @@
 #serv2sec1{
     border-top: 10px solid #4B208C;
 }
+ @media screen and (max-width:550px){
+    .serv2seces{
+        width: 82%;
+        padding-top: 30px;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+    }
+    .serv2seces>div{
+        width: 80%;
+    }
+    
+
+    
+ }

@@ -2,7 +2,7 @@
 import './App.css';
 import About from './component/AboutComponent/About';
 import Heder from './component/HederComponent/Heder';
-
+import './madia.css'
 import HomePag from './pags/HomePag/HomePag';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import ServisPag from './pags/ServisPag/ServisPag';

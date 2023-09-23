@@ -125,3 +125,49 @@
   .react-slideshow-container .nav{
     width: 500px;
   }
+  @media screen and (max-width:500px) {
+    .servis_text>h1{
+        font-size: 30px;
+    }
+    .slid {
+        margin-top: 30px;
+        position: relative;
+        margin-left: 5%;
+        width: 300px;
+        height: 300px;
+        border-radius: 50%;
+        border: 5px solid #4B208C;
+       
+    }
+    .slaqaj{
+        cursor: pointer;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        top: 200px;
+        left: 260px;
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        background-color: #4B208C;
+        color: white;
+    
+    }
+    .slaqzax{
+        cursor: pointer;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        top: 250px;
+        left: 200px;
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        background-color: white;
+        color: black;
+    }
+
+  }
+  
