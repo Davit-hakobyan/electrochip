@@ -53,7 +53,7 @@ function f1(){
        
         <div className='servis' >
             <div  className='servis_text' >
-                <h1>ELECTRICAL SERVICE PROVIDERS</h1>
+                <label> <b>ELECTRICAL SERVICE PROVIDERS </b></label>
                 <span>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Adipisci expedita dolores, inventore
                      laboriosam eveniet temporibus!</span>
                      <br /><br />

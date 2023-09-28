@@ -11,7 +11,7 @@
 .servis_text{
     width: 30%;
 }
-.servis_text>h1{
+.servis_text>label{
     font-size: 45px;
 }
 .servis_text>button{
@@ -80,6 +80,9 @@
  }
  
  @media screen and (max-width: 500px) {
+    .servis_text{
+        width: 80%;
+    }
     .servis{
         padding:0px;
     }
