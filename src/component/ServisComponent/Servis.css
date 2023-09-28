@@ -92,5 +92,23 @@
      background-color: rgb(167, 167, 167);
  }
  
+ @media screen and (max-width: 500px) {
+    .slid{
+        display: flex;
+        flex-direction: column;
+    }
+    .erevacox{
+        overflow: hidden;
+       
+         width: 300px;
+         height: 300px;
+         border-radius: 50%;
+         border: 3px solid rgb(0, 255, 55);
+         display: flex;
+         align-items: center;
+         justify-content: center;
+     }
+
+  }
  
   

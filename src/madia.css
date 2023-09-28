@@ -65,14 +65,14 @@
    
    
   }
-  @media screen and (max-width:500px) {
+  @media screen and (max-width: 500px) {
     .erevacox{
         overflow: hidden;
-         position: relative;
+       
          width: 250px;
          height: 250px;
          border-radius: 50%;
-         border: 3px solid red;
+         border: 3px solid rgb(0, 255, 55);
          display: flex;
          align-items: center;
          justify-content: center;
