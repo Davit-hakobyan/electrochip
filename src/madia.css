@@ -66,15 +66,17 @@
    
   }
   @media screen and (max-width:500px) {
-    .slid {
-        position: relative;
-        margin-left: 5%;
-        width: 200px;
-        height: 200px;
-        border-radius: 50%;
-        border: 5px solid #4B208C;
-       
-    }
+    .erevacox{
+        overflow: hidden;
+         position: relative;
+         width: 250px;
+         height: 250px;
+         border-radius: 50%;
+         border: 3px solid red;
+         display: flex;
+         align-items: center;
+         justify-content: center;
+     }
 
   }
   

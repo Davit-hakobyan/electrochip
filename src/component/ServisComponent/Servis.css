@@ -41,16 +41,6 @@
     color: white;
 
 }
-
-
-  
-  
-  
-  @media screen and (max-width:500px) {
-    .servis_text>h1{
-        font-size: 30px;
-    }
-}
 .slid{
     display: flex;
     align-items: center;
