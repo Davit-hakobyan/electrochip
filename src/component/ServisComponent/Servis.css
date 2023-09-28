@@ -69,13 +69,13 @@
     
    cursor: pointer;
  }
- #svg{
+ #svgheder{
      margin-left: 10px;
      margin-right: 10px;
      background-color:rgb(202, 200, 200);
      border-radius: 50%;
  }
- #svg:hover{
+ #svgheder:hover{
      background-color: rgb(167, 167, 167);
  }
  
