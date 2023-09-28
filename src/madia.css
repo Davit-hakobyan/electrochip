@@ -7,6 +7,9 @@
         }
 }
 @media screen and (max-width: 1000px) {
+    .slid{
+        margin-top: 50px;
+    }
     
     .mediamenu_div1{
         display:block;
